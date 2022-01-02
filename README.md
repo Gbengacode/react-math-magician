@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Julian Carracedo**
+👤 **Emmanuel Gbenga**
 
 - GitHub: [@gbengacode](https://github.com/gbengacode)
 
