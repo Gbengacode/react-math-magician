@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Get this repository on your computer using ```git@github.com:Gbengacode/react-math-magician.git``` on any folder
+- Get this repository on your computer using ```git clone git@github.com:Gbengacode/react-math-magician.git``` on any folder
 - Open the created folder on your code editor
 
 ### Install
