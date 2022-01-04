@@ -52,7 +52,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@gbengacode](https://github.com/gbengacode)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
 ## Show your support
