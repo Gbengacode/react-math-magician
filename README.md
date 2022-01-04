@@ -8,7 +8,7 @@ Math Magicians
 
 # Project Description
 
-> This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application. In the project, I will develop the actual application.
+> This is the first project of the Math Magicians application. I design the interface needed to develop a React application. In the project, I will develop the actual application.
 
 ## Built With
 
@@ -20,7 +20,9 @@ Math Magicians
 - Text editor
     - VSCode
 
+## Live Demo
 
+- [LiveDemo]  (https://deploy-preview-2--math-react-cal.netlify.app/)
 ## Getting Started
 
 
@@ -52,7 +54,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@gbengacode](https://github.com/gbengacode)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
 ## Show your support
