@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,400&family=Open+Sans&display=swap');
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: linear-gradient(to right, #feb47b, #ff7e5f);
+}
+
+.calc-cover {
+  display: grid;
+  margin: 4rem 0 0 0;
+  grid-template-columns: repeat(4, 6rem);
+  grid-template-rows: repeat(5, 4rem);
+  justify-content: center;
+}
+
+.output {
+  grid-column: 1/-1;
+  display: flex;
+  background: rgb(109, 104, 104);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-around;
+  padding: 10px;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.output > .prev-operand {
+  font-size: 1rem;
+  display: none;
+  font-weight: 600;
+  color: #fff;
+}
+
+.output > .curr-operand {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.calc-cover > .double {
+  grid-column: span 2;
+}
+
+.calc-cover > button {
+  cursor: pointer;
+  font-size: 0.9rem;
+  border: 0.3px solid rgb(185, 185, 185);
+  outline: none;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #e0e1e6;
+  color: rgb(59, 58, 58);
+  font-weight: 600;
+}
+
+.calc-cover .operator {
+  background: #fe9241;
+}
+
+.calc-cover .operator:hover {
+  background: rgb(212, 205, 205);
+}
+
+.calc-cover > button:hover {
+  background: rgb(212, 205, 205);
+}
+
+.calc-cover > button:focus {
+  background: rgb(212, 205, 205);
+}
