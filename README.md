@@ -4,7 +4,7 @@
 
 Math Magicians
 
-![screenshot](./setup.png)
+![screenshot](./scren1.png)
 
 # Project Description
 
@@ -22,7 +22,7 @@ Math Magicians
 
 ## Live Demo
 
-- [LiveDemo]  (https://deploy-preview-4--math-react-cal.netlify.app/)
+- [LiveDemo]  (https://deploy-preview-5--math-react-cal.netlify.app)
 ## Getting Started
 
 
