@@ -12,7 +12,6 @@ const Home = () => (
       <br />
       {' '}
       is
-
       to practice Mathematics
     </H1>
     <Text>
