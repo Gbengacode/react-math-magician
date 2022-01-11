@@ -4,7 +4,7 @@
 
 Math Magicians
 
-![screenshot](./setup.png)
+![screenshot](./scren1.png)
 
 # Project Description
 
