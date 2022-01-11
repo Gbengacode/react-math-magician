@@ -22,7 +22,7 @@ Math Magicians
 
 ## Live Demo
 
-- [LiveDemo]  (https://deploy-preview-5--math-react-cal.netlify.app)
+- [LiveDemo]  (https://deploy-preview-6--math-react-cal.netlify.app)
 ## Getting Started
 
 
