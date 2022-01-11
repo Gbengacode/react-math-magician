@@ -1,4 +1,3 @@
-/* <eslint-disable max-len  */
 import React from 'react';
 
 import {
@@ -8,8 +7,11 @@ import {
 const Home = () => (
   <Container>
     <H1>
-      The Perfect way to master Mathematics is
+      The Perfect way to master Mathematics
+      {' '}
       <br />
+      {' '}
+      is
       to practice Mathematics
     </H1>
     <Text>
