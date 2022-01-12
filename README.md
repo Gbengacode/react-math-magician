@@ -53,16 +53,16 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@gbengacode](https://github.com/gbengacode)
 
+
+👤 **Benjamin Patin**
+
+- GitHub: [@benjp009](https://github.com/benjp009)
+
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
