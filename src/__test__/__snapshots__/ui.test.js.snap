@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Articles Tests Render works correctly 1`] = `
+<div
+  className="sc-gsDKAQ iweCYT"
+>
+  <h1
+    className="sc-dkPtRN dkmQEg"
+  >
+    The Perfect way to master Mathematics
+     
+    <br />
+     
+    is to practice Mathematics
+  </h1>
+  <div
+    className="sc-hKwDye iUfjuk"
+  >
+    <p
+      className="sc-eCImPb dFTyij"
+    >
+      Start learning mathematics with our free tool. We provide you with a free calculator and quote.
+    </p>
+  </div>
+  <a
+    className="sc-jRQBWg jUpCgY"
+    href="/calculator"
+    onClick={[Function]}
+  >
+    Get Started
+  </a>
+</div>
+`;
+
+exports[`Articles Tests Render works correctly 2`] = `
+<div
+  className="calc-cover"
+>
+  <div
+    className="output"
+  >
+    <div
+      className="prev-operand"
+    >
+      0
+    </div>
+    <div
+      className="curr-operand"
+    >
+       
+      0
+    </div>
+  </div>
+  <button
+    name="AC"
+    onClick={[Function]}
+    type="button"
+  >
+    AC
+  </button>
+  <button
+    name="+/-"
+    onClick={[Function]}
+    type="button"
+  >
+    +/-
+  </button>
+  <button
+    name="%"
+    onClick={[Function]}
+    type="button"
+  >
+    %
+  </button>
+  <button
+    className="operator"
+    name="÷"
+    onClick={[Function]}
+    type="button"
+  >
+    ÷
+  </button>
+  <button
+    name="7"
+    onClick={[Function]}
+    type="button"
+  >
+    7
+  </button>
+  <button
+    name="8"
+    onClick={[Function]}
+    type="button"
+  >
+    8
+  </button>
+  <button
+    name="9"
+    onClick={[Function]}
+    type="button"
+  >
+    9
+  </button>
+  <button
+    className="operator"
+    name="x"
+    onClick={[Function]}
+    type="button"
+  >
+    x
+  </button>
+  <button
+    name="4"
+    onClick={[Function]}
+    type="button"
+  >
+    4
+  </button>
+  <button
+    name="5"
+    onClick={[Function]}
+    type="button"
+  >
+    5
+  </button>
+  <button
+    name="6"
+    onClick={[Function]}
+    type="button"
+  >
+    6
+  </button>
+  <button
+    className="operator"
+    name="-"
+    onClick={[Function]}
+    type="button"
+  >
+    -
+  </button>
+  <button
+    name="1"
+    onClick={[Function]}
+    type="button"
+  >
+    1
+  </button>
+  <button
+    name="2"
+    onClick={[Function]}
+    type="button"
+  >
+    2
+  </button>
+  <button
+    name="3"
+    onClick={[Function]}
+    type="button"
+  >
+    3
+  </button>
+  <button
+    className="operator"
+    name="+"
+    onClick={[Function]}
+    type="button"
+  >
+    +
+  </button>
+  <button
+    className="double"
+    name="0"
+    onClick={[Function]}
+    type="button"
+  >
+    0
+  </button>
+  <button
+    name="."
+    onClick={[Function]}
+    type="button"
+  >
+    .
+  </button>
+  <button
+    className="operator"
+    name="="
+    onClick={[Function]}
+    type="button"
+  >
+    =
+  </button>
+</div>
+`;
+
+exports[`Articles Tests Render works correctly 3`] = `
+<div
+  className="sc-bdvvtL bRAHOI"
+>
+  <p>
+    <q>
+      Everything around you is numbers, everything around you is mathematics 
+    </q>
+     
+     
+    <br />
+    Albert O.
+  </p>
+</div>
+`;
