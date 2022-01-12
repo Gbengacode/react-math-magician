@@ -4,11 +4,11 @@
 
 Math Magicians
 
-![screenshot](./scren1.png)
+![screenshot](./test.png)
 
 # Project Description
 
-> This is the first project of the Math Magicians application. I design the interface needed to develop a React application. In the project, I will develop the actual application.
+> This is the first project of the Math Magicians application. I design the interface needed to develop a React application. In the project,  I will develop the actual application.
 
 ## Built With
 
@@ -22,7 +22,7 @@ Math Magicians
 
 ## Live Demo
 
-- [LiveDemo]  (https://deploy-preview-5--math-react-cal.netlify.app)
+- [LiveDemo]  (https://deploy-preview-6--math-react-cal.netlify.app)
 ## Getting Started
 
 
@@ -53,16 +53,16 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@gbengacode](https://github.com/gbengacode)
 
+
+👤 **Benjamin Patin**
+
+- GitHub: [@benjp009](https://github.com/benjp009)
+
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
