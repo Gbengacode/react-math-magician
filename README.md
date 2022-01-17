@@ -21,8 +21,11 @@ Math Magicians
     - VSCode
 
 ## Live Demo
+### Netlify
+- [LiveDemo]  (https://math-react-cal.netlify.app/)
 
-- [LiveDemo]  (https://deploy-preview-6--math-react-cal.netlify.app)
+### Heroku
+- [LiveDemo] (https://reactive-magicians.herokuapp.com/)
 ## Getting Started
 
 
